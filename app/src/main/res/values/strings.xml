@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyContentProvider</string>
+    <string name="txtView_title_main">My Content Provider</string>
+    <string name="btn_add_main">Add Item</string>
+    <string name="btn_edit_main">Edit Item</string>
+    <string name="btn_show_main">Show Item</string>
+    <string name="btn_ok_AddItemAct">OK </string>
+    <string name="txtVw_name_AddItemAct">Name: </string>
+    <string name="txtVw_price_AddItemAct">Price: </string>
+    <string name="title_activity_show_items">ShowItemsActivity</string>
+
+
+</resources>
